@@ -1,7 +1,7 @@
 /* Define colores y medidas reutilizables en ambas páginas. */
 :root {
     --color-principal: #2563eb;
-    --color-fondo: #f3f4f6;
+    --color-fondo: #dde0e6;
     --color-texto: #1f2937;
     --ancho-contenido: 900px;
 }
